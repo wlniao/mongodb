@@ -14,7 +14,7 @@
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <PackageId>Wlniao.MongoDB</PackageId>
-    <Version>2.0.0</Version>
+    <Version>0.0.1</Version>
     <RootNamespace>Wlniao.MongoDB</RootNamespace>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0.html</PackageLicenseUrl>
@@ -40,7 +40,7 @@
 
   <ItemGroup>
     <PackageReference Include="MongoDB.Driver" Version="2.4.4" />
-    <PackageReference Include="Wlniao.XCore" Version="2.0.0" />
+    <PackageReference Include="Wlniao.XCore" Version="2.1.5" />
   </ItemGroup>
 
 </Project>
